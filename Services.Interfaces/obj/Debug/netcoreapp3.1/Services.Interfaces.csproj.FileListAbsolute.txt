@@ -1,0 +1,12 @@
+C:\Repository\SISGECP\SISGECP\Services.Interfaces\bin\Debug\netcoreapp3.1\Services.Interfaces.deps.json
+C:\Repository\SISGECP\SISGECP\Services.Interfaces\bin\Debug\netcoreapp3.1\Services.Interfaces.dll
+C:\Repository\SISGECP\SISGECP\Services.Interfaces\bin\Debug\netcoreapp3.1\Services.Interfaces.pdb
+C:\Repository\SISGECP\SISGECP\Services.Interfaces\bin\Debug\netcoreapp3.1\Domain.Entities.dll
+C:\Repository\SISGECP\SISGECP\Services.Interfaces\bin\Debug\netcoreapp3.1\Domain.Entities.pdb
+C:\Repository\SISGECP\SISGECP\Services.Interfaces\obj\Debug\netcoreapp3.1\Services.Interfaces.csprojAssemblyReference.cache
+C:\Repository\SISGECP\SISGECP\Services.Interfaces\obj\Debug\netcoreapp3.1\Services.Interfaces.AssemblyInfoInputs.cache
+C:\Repository\SISGECP\SISGECP\Services.Interfaces\obj\Debug\netcoreapp3.1\Services.Interfaces.AssemblyInfo.cs
+C:\Repository\SISGECP\SISGECP\Services.Interfaces\obj\Debug\netcoreapp3.1\Services.Interfaces.csproj.CoreCompileInputs.cache
+C:\Repository\SISGECP\SISGECP\Services.Interfaces\obj\Debug\netcoreapp3.1\Services.Interfaces.csproj.CopyComplete
+C:\Repository\SISGECP\SISGECP\Services.Interfaces\obj\Debug\netcoreapp3.1\Services.Interfaces.dll
+C:\Repository\SISGECP\SISGECP\Services.Interfaces\obj\Debug\netcoreapp3.1\Services.Interfaces.pdb
