@@ -1,0 +1,13 @@
+C:\Repository\SISGECP\SISGECP\Infraestructure.Data\bin\Debug\netcoreapp3.1\Infraestructure.Data.deps.json
+C:\Repository\SISGECP\SISGECP\Infraestructure.Data\bin\Debug\netcoreapp3.1\Infraestructure.Data.dll
+C:\Repository\SISGECP\SISGECP\Infraestructure.Data\bin\Debug\netcoreapp3.1\Infraestructure.Data.pdb
+C:\Repository\SISGECP\SISGECP\Infraestructure.Data\bin\Debug\netcoreapp3.1\Domain.Entities.dll
+C:\Repository\SISGECP\SISGECP\Infraestructure.Data\bin\Debug\netcoreapp3.1\Domain.Entities.pdb
+C:\Repository\SISGECP\SISGECP\Infraestructure.Data\obj\Debug\netcoreapp3.1\Infraestructure.Data.csprojAssemblyReference.cache
+C:\Repository\SISGECP\SISGECP\Infraestructure.Data\obj\Debug\netcoreapp3.1\Infraestructure.Data.AssemblyInfoInputs.cache
+C:\Repository\SISGECP\SISGECP\Infraestructure.Data\obj\Debug\netcoreapp3.1\Infraestructure.Data.AssemblyInfo.cs
+C:\Repository\SISGECP\SISGECP\Infraestructure.Data\obj\Debug\netcoreapp3.1\Infraestructure.Data.csproj.CoreCompileInputs.cache
+C:\Repository\SISGECP\SISGECP\Infraestructure.Data\obj\Debug\netcoreapp3.1\Infraestructure.Data.csproj.CopyComplete
+C:\Repository\SISGECP\SISGECP\Infraestructure.Data\obj\Debug\netcoreapp3.1\Infraestructure.Data.dll
+C:\Repository\SISGECP\SISGECP\Infraestructure.Data\obj\Debug\netcoreapp3.1\Infraestructure.Data.pdb
+C:\Repository\SISGECP\SISGECP\Infraestructure.Data\bin\Debug\netcoreapp3.1\appsettings.json

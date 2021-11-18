@@ -1,0 +1,33 @@
+﻿@using Kendo.Mvc.UI
+@{
+    ViewData["Title"] = "Home Page";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+
+   
+</div>
+
+<div class="col-md-12">
+    <p>Kendo UI Versión <strong id="kendoVersion"></strong></p>
+    <input id="cmbEmployee" />
+    <div class="text-center">
+        <h2>Telerik UI DatePicker for ASP.NET Core</h2>
+        @(Html.Kendo().DatePicker()
+            .Name("my-picker")
+            )
+    </div>
+</div>
+
+
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        $("#kendoVersion").text(kendo.version);
+        $("cmbEmployee").kendoComboBox({
+            
+        });
+    });
+</script>

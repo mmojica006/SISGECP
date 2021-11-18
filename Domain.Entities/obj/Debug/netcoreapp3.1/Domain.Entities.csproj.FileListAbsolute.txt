@@ -1,0 +1,11 @@
+C:\Repository\SISGECP\SISGECP\Domain.Entities\bin\Debug\netcoreapp3.1\Domain.Entities.deps.json
+C:\Repository\SISGECP\SISGECP\Domain.Entities\bin\Debug\netcoreapp3.1\Domain.Entities.runtimeconfig.json
+C:\Repository\SISGECP\SISGECP\Domain.Entities\bin\Debug\netcoreapp3.1\Domain.Entities.runtimeconfig.dev.json
+C:\Repository\SISGECP\SISGECP\Domain.Entities\bin\Debug\netcoreapp3.1\Domain.Entities.dll
+C:\Repository\SISGECP\SISGECP\Domain.Entities\bin\Debug\netcoreapp3.1\Domain.Entities.pdb
+C:\Repository\SISGECP\SISGECP\Domain.Entities\obj\Debug\netcoreapp3.1\Domain.Entities.AssemblyInfoInputs.cache
+C:\Repository\SISGECP\SISGECP\Domain.Entities\obj\Debug\netcoreapp3.1\Domain.Entities.AssemblyInfo.cs
+C:\Repository\SISGECP\SISGECP\Domain.Entities\obj\Debug\netcoreapp3.1\Domain.Entities.csproj.CoreCompileInputs.cache
+C:\Repository\SISGECP\SISGECP\Domain.Entities\obj\Debug\netcoreapp3.1\Domain.Entities.dll
+C:\Repository\SISGECP\SISGECP\Domain.Entities\obj\Debug\netcoreapp3.1\Domain.Entities.pdb
+C:\Repository\SISGECP\SISGECP\Domain.Entities\obj\Debug\netcoreapp3.1\Domain.Entities.genruntimeconfig.cache
